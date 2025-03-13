@@ -64,5 +64,5 @@ span[typeof="btmaps:GridReference"] {
 
 span.place {
 	color: green;
-	font-weight: bold;
+	#font-weight: bold;
 }

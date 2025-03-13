@@ -1,6 +1,6 @@
 # 11<sup>th</sup> Brigade, 1917
 
-See the [catalogue](1917-index.xhtml) of source PDF files which includes links to the documents that have been transcribed. Additionally, links to selected transcripts are below.
+See the [catalogue](1917-index.xhtml) of source PDF files with links to the documents that have been transcribed. Additionally, links to selected transcripts are below.
 
 ## Monthly Diary Entries
 
