@@ -1,6 +1,6 @@
-# 11<sup>th</sup> Brigade War Diary, 1917
+# 11<sup>th</sup> Brigade, 1917
 
-Selected transcripts from the 11<sup>th</sup> Infantry Brigade War Diary for 1917, held at The National Archive (TNA). There is a [catalogue](index.xhtml) of the relevant source PDF files downloaded from TNA. Links to transcribed documents are below.
+See the [catalogue](1917-index.xhtml) of source PDF files which includes links to the documents that have been transcribed. Additionally, links to selected transcripts are below.
 
 ## Monthly Diary Entries
 
