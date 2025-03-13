@@ -4,4 +4,4 @@ Selected transcripts from the 11<sup>th</sup> Infantry Brigade War Diary for 191
 
 ## Monthly Diary Entries
 
-[August 1914](1914-08-diary.xhtml), [September 1914](1914-09-diary.xml)
+[August 1914](1914-08-diary.xhtml), [September 1914](1914-09-diary.xhtml)
