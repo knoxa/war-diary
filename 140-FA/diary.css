@@ -1,0 +1,97 @@
+table {
+	width: 100%;
+#	border: 4px;
+#	border-style: solid;
+#	border-color: lightgrey;
+	font-size: 14pt;
+	font-family: Courier;
+}
+
+p {
+	font-size: 14pt;
+	font-family: Courier;
+}
+  
+tr {
+	vertical-align: top;
+}
+
+td {
+	#padding: 6px;
+}
+
+td.dotted {
+	border-top-color:lightgrey;
+	border-top-width: 1px;
+	border-top-style: dashed;
+}
+
+td.col0 {
+	width: 10%;
+}
+
+td.col2 {
+	width: 10%;
+}
+
+td.col2day {
+	font-size: 8pt;
+	vertical-align: middle;
+}
+
+td.signature, p.right {
+	text-align: right;
+}
+
+p.heading {
+	text-align: center;
+	font-style: underline;
+}
+
+td.heading {
+	font-style: italic;
+	#font-weight: bold;
+}
+
+span.person {
+	color: blue;
+	#font-weight: bold;
+}
+
+span.place {
+	color: green;
+	#font-weight: bold;
+}
+
+span.unit {
+	color: red;
+	#font-weight: bold;
+}
+
+table.report {
+	text-align:left;
+	width:50%;
+}
+
+table.report > tr > td {
+	padding:0px;
+}
+
+table.nested {
+	width: 60%;
+	table-layout: auto;
+}
+
+table.nested > tbody > tr > td {
+	text-align:left;
+}
+
+td.datemark {
+	float: leftt;
+	font-size: small;
+	color: lightgrey;
+}
+
+article {
+	margin: 2em;
+}
