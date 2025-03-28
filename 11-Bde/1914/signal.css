@@ -12,3 +12,9 @@ td {
 	font-size: small;
 	font-weight: bold;
 }
+
+.tnaref {
+		font-size: small;
+		font-style: italic;
+		text-align: right;
+}
