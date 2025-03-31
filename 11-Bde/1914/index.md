@@ -4,4 +4,4 @@ See the [catalogue](1914-index.xhtml) of source PDF files which includes links t
 
 ## Monthly Diary Entries
 
-[August 1914](1914-08-diary.xhtml), [September 1914](1914-09-diary.xhtml)
+[August 1914](1914-08-diary.xhtml), [September 1914](1914-09-diary.xhtml), [October 1914](1914-10-diary.xhtml)
