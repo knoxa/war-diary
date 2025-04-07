@@ -18,3 +18,7 @@ td {
 		font-style: italic;
 		text-align: right;
 }
+
+.ellipsis {
+		color: gray;
+}
