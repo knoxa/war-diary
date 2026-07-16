@@ -1,6 +1,6 @@
 
 .doubtful {
-	#background: pink;
+	background: pink;
 }
 article {
   font-family: Courier;
@@ -8,7 +8,12 @@ article {
   width: 50em;
   padding-left: 4em;
 }
-
+body {
+  font-family: Courier;
+  font-size: medium;
+  width: 50em;
+  padding-left: 4em;
+}
 p {
 	  text-indent: 2em;
 }
@@ -32,8 +37,17 @@ p.signed {
 	font-style: italic;
 	text-indent: 0;
 }
+.tnaref {
+		font-size: small;
+		font-style: italic;
+		text-align: right;
+}
+
 p.reference {
 		text-align: right;
+}
+p.centre {
+		text-align: center;
 }
 
 span[typeof="btmaps:GridReference"] {
