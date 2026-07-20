@@ -42,7 +42,11 @@ p.signed {
 p.reference {
 		text-align: right;
 }
-
+p.tnaref {
+		font-size: small;
+		font-style: italic;
+		text-align: right;
+}
 span[typeof="btmaps:GridReference"] {
 	color: green;
 	font-weight: bold;
