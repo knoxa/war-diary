@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><kml xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns="http://www.opengis.net/kml/2.2">
-<Document property="skos:related" resource="https://knoxa.github.io/war-diary/11-Bde/1914/1914-09-diary.xhtml">
-<name>11 Bde war diary, September 1914</name>
+<Document>
+<name>TESTING</name>
 <Placemark>
 <name>Baron</name>
 <Point>
@@ -16,6 +16,7 @@
 <coordinates>3.392436,49.39009199999999,0</coordinates>
 </Point>
 <ExtendedData>
+<skos:altLabel>the top of the ravine either side of the BUCY-LE-LONG - VREGNY road</skos:altLabel>
 <skos:altLabel>BUCY-LE-LONG</skos:altLabel>
 </ExtendedData>
 </Placemark>
@@ -53,6 +54,15 @@
 </Point>
 <ExtendedData>
 <skos:altLabel>TARTEREL</skos:altLabel>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>Château-Thierry</name>
+<Point>
+<coordinates>3.3994673,49.0440354,0</coordinates>
+</Point>
+<ExtendedData>
+<skos:altLabel>CHATEAU-THIERRY</skos:altLabel>
 </ExtendedData>
 </Placemark>
 <Placemark>
@@ -257,7 +267,6 @@
 <coordinates>3.130059000000001,48.95050699999999,0</coordinates>
 </Point>
 <ExtendedData>
-<skos:altLabel>LA FERTÉ</skos:altLabel>
 <skos:altLabel>LA FERTE</skos:altLabel>
 </ExtendedData>
 </Placemark>
@@ -474,9 +483,9 @@
 <ExtendedData/>
 </Placemark>
 <Placemark>
-<name>Rozières-sur-Crise</name>
+<name>Rosières</name>
 <Point>
-<coordinates>3.352024,49.326534,0</coordinates>
+<coordinates>2.78094,49.18873599999999,0</coordinates>
 </Point>
 <ExtendedData>
 <skos:altLabel>ROZIERES</skos:altLabel>
@@ -630,6 +639,7 @@
 <coordinates>3.424117,49.408192,0</coordinates>
 </Point>
 <ExtendedData>
+<skos:altLabel>the top of the ravine either side of the BUCY-LE-LONG - VREGNY road</skos:altLabel>
 <skos:altLabel>VREGNY</skos:altLabel>
 </ExtendedData>
 </Placemark>
